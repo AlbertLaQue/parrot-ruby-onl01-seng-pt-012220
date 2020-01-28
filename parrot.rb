@@ -6,6 +6,7 @@
 #the return value of puts will always be nil 
 
 def parrot(speak = "Squawk!")
- "#{speak}"
+puts  "#{speak}"
+"#{speak}"
 end
 parrot("Squawk!")
