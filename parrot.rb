@@ -5,4 +5,3 @@
 #default argument of "Squawk!"
 #the return value of puts will always be nil 
 
-def parrot()
