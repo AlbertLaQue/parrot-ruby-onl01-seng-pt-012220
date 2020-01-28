@@ -5,7 +5,7 @@
 #default argument of "Squawk!"
 #the return value of puts will always be nil 
 
-def parrot(speak = "Sqauwk!")
-  
+def parrot(speak = "Squawk!")
+  "#{speak}"
 end
-parrot
+parrot()
